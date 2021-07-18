@@ -1,5 +1,5 @@
 # JavaScript-27
-Что такое JavaScript?
+# Что такое JavaScript?
 Подключение скрипта
 Вкладка Console в Chrome DevTools
 Синтаксис
