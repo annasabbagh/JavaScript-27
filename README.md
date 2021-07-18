@@ -1,2 +1,4 @@
-# JavaScript-27
-Homeworks
+# Module 8
+Распространение. Всплытие. Делегирование  
+Throttle и Debounce  
+IntersectionObserver API  
