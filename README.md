@@ -1,4 +1,4 @@
-# JavaScript-27
+# Module 1
 Что такое JavaScript?  
 Подключение скрипта  
 Вкладка Console в Chrome DevTools  
