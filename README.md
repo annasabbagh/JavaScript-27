@@ -1,2 +1,5 @@
-# JavaScript-27
-Homeworks
+# Module 5
+ООП  
+Конструкторы  
+Прототипы  
+ES6 классы  
