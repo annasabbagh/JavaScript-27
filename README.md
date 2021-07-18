@@ -1,2 +1,5 @@
-# JavaScript-27
-Homeworks
+# Module 3
+Объекты  
+Перебор объекта  
+Операции spread и rest  
+Деструктуризация  
